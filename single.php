@@ -20,7 +20,7 @@ get_header(); ?>
 
 <?php endif ?>
 
-	<div id="primary" class="test">
+	<div id="primary" class="test123">
 
 		<?php astra_primary_content_top(); ?>
 
