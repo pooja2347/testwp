@@ -28,7 +28,7 @@ get_header(); ?>
 
 		<?php astra_primary_content_bottom(); ?>
 
-	</div><!-- #primary -->
+	</div><!-- #primary -->  
 
 <?php if ( astra_page_layout() == 'right-sidebar' ) : ?>
 
