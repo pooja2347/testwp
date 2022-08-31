@@ -19,9 +19,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 get_header(); ?>
 <?php if ( astra_page_layout() == 'left-sidebar' ) : ?>
-
+  <div class="get_sidebar">
 	<?php get_sidebar(); ?>
-
+  </div>
 <?php endif ?>
 	<div id="primary" <?php astra_primary_class(); ?>>
 		<?php
