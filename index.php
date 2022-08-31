@@ -22,7 +22,7 @@ get_header(); ?>
   <div class="get_sidebar">
 	<?php get_sidebar(); ?>
   </div>
-<?php endif ?>
+<?php endif ?>  
 	<div id="primary" <?php astra_primary_class(); ?>>
 		<?php
 		astra_primary_content_top();
