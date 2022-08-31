@@ -20,7 +20,7 @@ get_header(); ?>
 
 <?php endif ?>
 
-	<div id="primary" class="test">
+	<div id="primary" class="test123">
 
 		<?php astra_primary_content_top(); ?>
 
@@ -28,12 +28,12 @@ get_header(); ?>
 
 		<?php astra_primary_content_bottom(); ?>
 
-	</div><!-- #primary -->
+	</div><!-- #primary -->  
 
 <?php if ( astra_page_layout() == 'right-sidebar' ) : ?>
 
 	<?php get_sidebar(); ?>
-
+  
 <?php endif ?>
 
 <?php get_footer(); ?>
